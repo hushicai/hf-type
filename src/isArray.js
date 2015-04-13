@@ -5,9 +5,10 @@
 
 define(
     function (require) {
-        function isArray(val) {
+        // es5 `Array.isArray`
+        var isArray = Array.isArray || function (val) {
             return Object.prototype.toString.call(val) === '[object Array]';
-        }
+        };
         return isArray;
     }
 );
