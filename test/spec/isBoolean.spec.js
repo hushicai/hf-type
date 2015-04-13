@@ -1,5 +1,5 @@
 /**
- * @file isBoolean.spec.js
+ * @file isBoolean spec
  * @author hushicai(bluthcy@gmail.com)
  */
 
