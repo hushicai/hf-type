@@ -1,0 +1,22 @@
+{
+  "name": "hf-type",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hushicai/hf-type.git"
+  },
+  "author": "hushicai <bluthcy@gmail.com> (http://hushicai.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hushicai/hf-type/issues"
+  },
+  "homepage": "https://github.com/hushicai/hf-type"
+}
