@@ -7,8 +7,8 @@ define(
     function (require) {
         var isArray = require('isArray');
 
-        describe('isArray', function () {
-            it('should be right', function () {
+        describe('isArray test suite', function () {
+            it('isArray', function () {
                 expect(typeof []).toBe('object');
                 expect([] instanceof Array).toBe(true);
 

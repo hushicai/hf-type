@@ -6,7 +6,7 @@
 define(
     function (require) {
         function isString(val) {
-            return Object.prototype.toString.call(val) === '[object String]';
+            return typeof val === 'string';
         }
         return isString;
     }
